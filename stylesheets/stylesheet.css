@@ -19,3 +19,7 @@ a:visited{
 a:hover{
     background-color:  pink;
 }
+li:first-child {
+    font-weight:bold;
+    font-size: 120%;
+}
